@@ -6,4 +6,26 @@
   display:flex;
   justify-content:space-between;
   
+  
+}
+h1{
+  color: grey;
+  background-color: black;
+}
+#input{
+  background-color: grey;
+  height: 20px;
+  width: 100px
+
+}
+#shoot{
+  width: 100px;
+  color: white;
+  background-color: black;
+  height: 20px
+  
+}
+#computerChoice{
+  color: green;
+  
 }
